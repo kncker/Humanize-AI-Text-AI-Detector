@@ -1,0 +1,5 @@
+{
+  "name": "Humanize AI Text",
+  "description": "A tool to transform AI-generated content into natural, human-sounding writing. It takes output from tools like ChatGPT, Bard, and others, and turns it into text that feels authentic, engaging, and reader-friendly.",
+  "requestFramePermissions": []
+}
